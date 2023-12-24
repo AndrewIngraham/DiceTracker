@@ -20,4 +20,4 @@ Written by Andrew Ingraham
 
 ## License
 
-???
+MIT License
