@@ -1,4 +1,4 @@
-DiceTracker is a simple IOS app to record dice rolls for board/dice games.
+DiceTracker is a simple IOS app to record dice rolls for board/dice games. Named "Roll Counter" On the app store
 
 ## Requirements
 
